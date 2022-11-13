@@ -1,0 +1,32 @@
+.container {
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   } 
+
+   .sections {
+    font-size: 18px;
+   }
+
+   .first {
+    color: green;
+    font: 14px;
+    font-style: italic;
+    font-weight: bold;
+   }
+
+   .second {
+    color: red;
+    font: 14px;
+    font-style: italic;
+    font-weight: bold;
+   }
+
+   .third {
+    color: blue;
+    font: 14px;
+    font-style: italic;
+    font-weight: bold;
+   }
